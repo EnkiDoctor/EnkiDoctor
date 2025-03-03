@@ -21,8 +21,5 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
 
 <ul>
-<li><a target="_blank" href=""></a></li>
-<li><a target="_blank" href=""></a></li>
-
 ![Metrics](/github-metrics.svg) 
  
